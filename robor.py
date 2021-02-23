@@ -91,10 +91,8 @@ class Robot(pygame.sprite.Sprite):
             self.rect = self.rect.move(50 * cos(radians((self.angle))), 50 * sin(radians(self.angle)))
             print((50 * cos(radians((self.angle))), 50 * sin(radians(self.angle))))
 
-
-
-
-
+# main part
+pass
 
 if __name__ == "__main__":
     pygame.init()
