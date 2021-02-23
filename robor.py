@@ -1,7 +1,7 @@
 import pygame
 import os
 from math import *
-
+pass
 pygame.init()
 size = width, height = 400, 400
 screen = pygame.display.set_mode(size)
